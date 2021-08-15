@@ -1,7 +1,6 @@
 ## 👋 안녕하세요!
 
 포트폴리오 <노션 링크> 
-https://www.notion.so/Yong-Ho-Kim-69a710eb85844938b47ac966730b18e6
 https://subdued-socks-dfb.notion.site/Yong-Ho-Kim-69a710eb85844938b47ac966730b18e6
 - Chrome or Edge에서 확인해주세요. ^_^
 <!-- 
