@@ -3,7 +3,7 @@ Kim-YongHo GitHub입니다.
 개인적으로 공부한 내용을 업로드하고 있습니다.
 
 ### 개인적인 학습하고 있는 내용
-- ARM Core STM 32 학습
+- ~ARM Core STM 32 학습~
 - Python 기반의 게임 개발
 - C언어 학습
 
